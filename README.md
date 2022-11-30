@@ -31,4 +31,5 @@ Azure Bot Service, QnA Maker, Static Web Apps
 Other Azure Technologies :
 App Service
 
-<a href="https://github.com/akrgit/finalfrt/blob/master/FRT.jpeg">E-Commerce Website with FAQ Bot</a>
+<a href="![FRT](https://user-images.githubusercontent.com/91938145/204790590-5c96b22f-ca7b-4794-b2a4-dc49eb929454.jpeg)
+">E-Commerce Website with FAQ Bot</a>
